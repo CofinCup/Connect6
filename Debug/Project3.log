@@ -1,0 +1,7 @@
+﻿  ClientSocket.cpp
+  Reversi.cpp
+C:\Users\86434\Desktop\Ongoing Tasks\程设project3\Project3\Reversi.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+  tasks.cpp
+  正在生成代码...
+  Project3.vcxproj -> C:\Users\86434\Desktop\Ongoing Tasks\程设project3\Project3\Debug\Project3.exe
